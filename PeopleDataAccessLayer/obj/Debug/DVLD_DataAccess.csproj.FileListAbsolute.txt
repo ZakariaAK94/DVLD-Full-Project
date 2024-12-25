@@ -1,0 +1,6 @@
+C:\Users\AKILZA\source\repos\ProjectDVLD\PeopleDataAccessLayer\bin\Debug\PeopleDataAccessLayer.dll
+C:\Users\AKILZA\source\repos\ProjectDVLD\PeopleDataAccessLayer\bin\Debug\PeopleDataAccessLayer.pdb
+C:\Users\AKILZA\source\repos\ProjectDVLD\PeopleDataAccessLayer\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\AKILZA\source\repos\ProjectDVLD\PeopleDataAccessLayer\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\AKILZA\source\repos\ProjectDVLD\PeopleDataAccessLayer\obj\Debug\PeopleDataAccessLayer.dll
+C:\Users\AKILZA\source\repos\ProjectDVLD\PeopleDataAccessLayer\obj\Debug\PeopleDataAccessLayer.pdb
