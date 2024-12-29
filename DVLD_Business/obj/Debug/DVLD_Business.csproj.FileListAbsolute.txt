@@ -1,0 +1,9 @@
+C:\Users\AKILZA\source\repos\ProjectDVLD\PersonBusinessLayer\bin\Debug\PersonBusinessLayer.dll
+C:\Users\AKILZA\source\repos\ProjectDVLD\PersonBusinessLayer\bin\Debug\PersonBusinessLayer.pdb
+C:\Users\AKILZA\source\repos\ProjectDVLD\PersonBusinessLayer\bin\Debug\PeopleDataAccessLayer.dll
+C:\Users\AKILZA\source\repos\ProjectDVLD\PersonBusinessLayer\bin\Debug\PeopleDataAccessLayer.pdb
+C:\Users\AKILZA\source\repos\ProjectDVLD\PersonBusinessLayer\obj\Debug\DVLD_Business.csproj.AssemblyReference.cache
+C:\Users\AKILZA\source\repos\ProjectDVLD\PersonBusinessLayer\obj\Debug\DVLD_Business.csproj.CoreCompileInputs.cache
+C:\Users\AKILZA\source\repos\ProjectDVLD\PersonBusinessLayer\obj\Debug\DVLD_Bus.1422E61B.Up2Date
+C:\Users\AKILZA\source\repos\ProjectDVLD\PersonBusinessLayer\obj\Debug\PersonBusinessLayer.dll
+C:\Users\AKILZA\source\repos\ProjectDVLD\PersonBusinessLayer\obj\Debug\PersonBusinessLayer.pdb

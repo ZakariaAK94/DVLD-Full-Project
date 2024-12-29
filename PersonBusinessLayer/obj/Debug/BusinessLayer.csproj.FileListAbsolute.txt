@@ -1,9 +1,0 @@
-C:\Users\AKILZA\source\repos\ProjectDVLD\PersonBusinessLayer\bin\Debug\PersonBusinessLayer.dll
-C:\Users\AKILZA\source\repos\ProjectDVLD\PersonBusinessLayer\bin\Debug\PersonBusinessLayer.pdb
-C:\Users\AKILZA\source\repos\ProjectDVLD\PersonBusinessLayer\bin\Debug\PeopleDataAccessLayer.dll
-C:\Users\AKILZA\source\repos\ProjectDVLD\PersonBusinessLayer\bin\Debug\PeopleDataAccessLayer.pdb
-C:\Users\AKILZA\source\repos\ProjectDVLD\PersonBusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
-C:\Users\AKILZA\source\repos\ProjectDVLD\PersonBusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
-C:\Users\AKILZA\source\repos\ProjectDVLD\PersonBusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
-C:\Users\AKILZA\source\repos\ProjectDVLD\PersonBusinessLayer\obj\Debug\PersonBusinessLayer.dll
-C:\Users\AKILZA\source\repos\ProjectDVLD\PersonBusinessLayer\obj\Debug\PersonBusinessLayer.pdb

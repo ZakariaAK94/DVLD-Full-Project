@@ -1,6 +1,0 @@
-C:\Users\AKILZA\source\repos\ProjectDVLD\PeopleDataAccessLayer\bin\Debug\PeopleDataAccessLayer.dll
-C:\Users\AKILZA\source\repos\ProjectDVLD\PeopleDataAccessLayer\bin\Debug\PeopleDataAccessLayer.pdb
-C:\Users\AKILZA\source\repos\ProjectDVLD\PeopleDataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
-C:\Users\AKILZA\source\repos\ProjectDVLD\PeopleDataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
-C:\Users\AKILZA\source\repos\ProjectDVLD\PeopleDataAccessLayer\obj\Debug\PeopleDataAccessLayer.dll
-C:\Users\AKILZA\source\repos\ProjectDVLD\PeopleDataAccessLayer\obj\Debug\PeopleDataAccessLayer.pdb
